@@ -1,4 +1,6 @@
-## Hi there 👋
+## Introduction
+
+Hello and welcome. Here you will find my data analytics portfolio, which was built up in the course of my studies at Turing College.
 
 <!--
 **kalbum/kalbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
